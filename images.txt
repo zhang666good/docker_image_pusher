@@ -1,3 +1,4 @@
 ghcr.io/lintsinghua/deepaudit-frontend:latest
 ghcr.io/lintsinghua/deepaudit-backend:latest
 ghcr.io/lintsinghua/deepaudit-sandbox:latest
+gcr.io/cadvisor/cadvisor:v0.51.0
